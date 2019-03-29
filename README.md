@@ -1,6 +1,6 @@
-# lenn4rd does dotfiles
+# Solomon does dotfiles
 
-Your dotfiles are how you personalize your system. These are mine, forked from [@holman](https://github.com/holman/dotfiles)'s excellent repository. See the **forked** section below for some notes about my changes.
+Your dotfiles are how you personalize your system. These are mine, forked from [@lenn4rd](https://github.com/lenn4rd/dotfiles)'s excellent repository. See the **forked** section below for some notes about my changes.
 
 I was a little tired of having long alias files and everything strewn about
 (which is extremely common on other dotfiles projects, too). That led to this
